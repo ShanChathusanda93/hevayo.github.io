@@ -13,14 +13,7 @@
   "disableCodeGen": true,
   "examplesFolder": "/spec-files/",
   "exampleFiles": [
-    "default.yaml",
-    "heroku-pets.yaml",
-    "minimal.yaml",
-    "echo.yaml",
-    "petstore_simple.yaml",
-    "petstore_full.yaml",
-    "basic-auth.yaml",
-    "security.yaml"
+    "default.yaml"
   ],
   "autocompleteExtension": {},
   "useBackendForStorage": false,
@@ -29,8 +22,8 @@
   "useYamlBackend": false,
   "disableFileMenu": false,
   "headerBranding": false,
-  "enableTryIt": true,
+  "enableTryIt": false,
   "brandingCssClass": "",
   "schemaUrl": "/schema/swagger.json",
-  "importProxyUrl": "https://cors-it.herokuapp.com/?url="
+  "importProxyUrl": "https://cors-anywhere.herokuapp.com/"
 }
